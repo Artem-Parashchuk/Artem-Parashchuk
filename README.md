@@ -1,12 +1,13 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmx1eHMyYXdvOWowamxwMnBkdGVxa3FjMHY1NWt1eWg3a3JybHZ0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmlrc3k2YjdpcmluY2M1eWdrdHVoMXY1ZnY0Ym5vYTA0dHFmNXh5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
 </div>
 
 ## Hi there, my name is Artem Parashchuk👋
  I am an enthusiastic Junior Frontend Developer. 
 I have a qualification in creation of adaptive and cross-browser interfaces. I had experience in teamwork, where I helped solve the most difficult tasks. Perseverance, desire to learn and
 responsibility is the basis of my work ethic.
-### :hammer_and_wrench: Languages and Tools :
+
+## :hammer_and_wrench: Languages and Tools :
 <div>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg' title='HTML' alt='HTML' width='40' height='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' title='CSS' alt='CSS' width='40' height='40'>
@@ -21,7 +22,7 @@ responsibility is the basis of my work ethic.
   <img src='https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg' title='Git' alt='Git' width='40' height='40'>
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
 <table cellpadding="0">
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
