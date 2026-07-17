@@ -3,7 +3,7 @@
 </div>
 
 ## Hi there, my name is Artem Parashchuk👋
- I am an enthusiastic Junior Frontend Developer. 
+ I am an enthusiastic Frontend Developer. 
 I have a qualification in creation of adaptive and cross-browser interfaces. I had experience in teamwork, where I helped solve the most difficult tasks. Perseverance, desire to learn and
 responsibility is the basis of my work ethic.
 
@@ -13,6 +13,7 @@ responsibility is the basis of my work ethic.
   <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg' title='CSS' alt='CSS' width='40' height='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg' title='Java Script' alt='Java Script' width='40' height='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg' title='Type Script' alt='Type Script' width='40' height='40'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg' title='Vue' alt='Vue' width='40' height='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg' title='React' alt='React' width='40' height='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg' title='Redux' alt='Redux' width='40' height='40'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg' title='Node js' alt='Node js' width='40' height='40'>
